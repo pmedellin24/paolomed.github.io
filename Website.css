@@ -1,0 +1,37 @@
+body {
+    background-color:#10c2c2;
+}
+
+h1 {
+    background-color:white;
+    color:black;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+li {
+    display:inline-block;
+    text-align:center;
+    font-family:arial;
+    margin-left:100px;
+    font-size:35px;
+}
+
+a {
+    color:white;
+    text-decoration:none;
+}
+
+a:hover {
+    background-color:#bbc916;
+    color:white;
+    font-style:italic;
+}
+
+.selected {
+    background-color:#bbc916;
+}
